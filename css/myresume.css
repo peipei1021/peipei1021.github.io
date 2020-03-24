@@ -3,12 +3,12 @@ font-family:'Noto Sans TC',sans-serif;
 }
 
 .bg-primary {
-	background-color: #e8c5b7!important;
+	background-color: #008080!important;
 
 }
 
 .text-primary {
-	color: #FA8072!important;
+	color: #008080!important;
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -23,7 +23,7 @@ h1,h2,h3,h4,h5,h6{
 	
 
 a {
-	color:#FA8072!important;
+	color:#008080!important;
 }
 
 
