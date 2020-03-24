@@ -1,5 +1,6 @@
 body{
-font-family:'Noto Sans TC',sans-serif;}
+font-family:'Noto Sans TC',sans-serif;
+}
 
 .bg-primary {
 	background-color: #e8c5b7!important;
@@ -12,11 +13,13 @@ font-family:'Noto Sans TC',sans-serif;}
 
 h1,h2,h3,h4,h5,h6{
 	font-family:'Noto Sans TC',sans-serif;
-        text-transform:none;}
+        text-transform:none;
+}
 
 subheading{
 	font-family:'Noto Sans TC',sans-serif;
-        text-transform:none;}
+        text-transform:none;
+}
 	
 
 a {
@@ -26,7 +29,9 @@ a {
 
 
 div{
-	font-family:'Noto Sans TC',sans-serif;}
+	font-family:'Noto Sans TC',sans-serif
+	text-transform:none;
+}
 
 
 
