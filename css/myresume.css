@@ -26,8 +26,8 @@ div.subheading a {
 	color:#008080!important;
 }
 
-background-color: #008080!important;
-background-image: url("img/gplay.png");
+.bg-primary{
+background-color: #008080!importanat;
+background-image: url("https://www.transparenttextures.com/patterns/gplay.png");
 }
-
 
