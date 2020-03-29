@@ -26,11 +26,9 @@ div.subheading a {
 	color:#008080!important;
 }
 
-.bg-primary{
-	background-color: #008080!important;
-	backgroung-image:url("img/gplay.png");
-}
-
+background-color: #008080;
+background-image: url("https://www.transparenttextures.com/patterns/gplay.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
 
 
 
